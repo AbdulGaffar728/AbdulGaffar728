@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbdulGaffar728
 - 👀 I’m interested in Web development 
-- 🌱 I’m currently learning advance JS and React JS
+- 🌱 I’m currently learning JS and React JS.
 - 💞️ I’m looking to collaborate on JavaScript.
 - 📫 You can reach me on Whatsapp +923034895728
 
